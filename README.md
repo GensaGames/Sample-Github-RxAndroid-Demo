@@ -1,4 +1,6 @@
-GithubDemo
+RxAndroid GithubDemo
+
+(!) Just another example Github Demo with UI RxAndroid! 
 
 GithubDemo showcases the use of Square's [Retrofit](http://square.github.io/retrofit/) 
 and [RxJava](https://github.com/ReactiveX/RxJava/wiki) to make asynchronous 
